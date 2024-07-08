@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/hat"
+        android:title="Hat"/>
+
+    <item
+        android:id="@+id/shirt"
+        android:title="Polo Shirt"/>
+
+    <item
+        android:id="@+id/pants"
+        android:title="Jeans"/>
+
+    <item
+        android:id="@+id/watch"
+        android:title="Silver Watch"/>
+
+</menu>
